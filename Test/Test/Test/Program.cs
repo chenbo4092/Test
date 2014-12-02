@@ -9,7 +9,9 @@ namespace Test
     {
         static void Main(string[] args)
         {
-            Console.Write("fsdsdfsdfs");
+            Console.Write("3433434");
+            Console.Write("3433434");
+            Console.Write("3433434");
         }
     }
 }
