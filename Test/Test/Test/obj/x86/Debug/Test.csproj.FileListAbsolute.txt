@@ -2,3 +2,4 @@ E:\Test\Test\Test\Test\bin\Debug\Test.exe
 E:\Test\Test\Test\Test\bin\Debug\Test.pdb
 E:\Test\Test\Test\Test\obj\x86\Debug\Test.exe
 E:\Test\Test\Test\Test\obj\x86\Debug\Test.pdb
+E:\Test\Test\Test\Test\obj\x86\Debug\Test.csprojResolveAssemblyReference.cache
