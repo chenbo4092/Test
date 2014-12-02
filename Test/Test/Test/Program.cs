@@ -9,6 +9,8 @@ namespace Test
     {
         static void Main(string[] args)
         {
+            Console.Write("45646456");
+            Console.Write("fsdsdfsdfs");
             Console.Write("fsdsdfsdfs");
         }
     }
